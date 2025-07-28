@@ -1,5 +1,19 @@
 # Changelog
 
+## \[2.7.1]
+
+### Enhancements
+
+- [`72b4226ee`](https://www.github.com/tauri-apps/tauri/commit/72b4226ee9932b4dafa4837a49420b2c02d14bb7) ([#13809](https://www.github.com/tauri-apps/tauri/pull/13809) by [@Beanow](https://www.github.com/tauri-apps/tauri/../../Beanow)) Reduced `Debug` format size for binary buffers.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.7.0`
+- Upgraded to `tauri-runtime@2.7.2`
+- Upgraded to `tauri-runtime-wry@2.7.3`
+- Upgraded to `tauri-macros@2.3.3`
+- Upgraded to `tauri-build@2.3.2`
+
 ## \[2.7.0]
 
 ### New Features

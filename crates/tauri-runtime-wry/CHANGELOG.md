@@ -1,5 +1,12 @@
 # Changelog
 
+## \[2.7.3]
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.7.0`
+- Upgraded to `tauri-runtime@2.7.2`
+
 ## \[2.7.2]
 
 ### What's Changed

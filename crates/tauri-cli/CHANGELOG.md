@@ -1,5 +1,16 @@
 # Changelog
 
+## \[2.8.0]
+
+### New Features
+
+- [`91508c0b8`](https://www.github.com/tauri-apps/tauri/commit/91508c0b8d16ec61c7706e93b711c5a85aaffb4a) ([#13881](https://www.github.com/tauri-apps/tauri/pull/13881) by [@pepperoni505](https://www.github.com/tauri-apps/tauri/../../pepperoni505)) Introduces a new configuration option that allows you to specify custom folders to watch for changes when running `tauri dev`.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.7.0`
+- Upgraded to `tauri-bundler@2.5.3`
+
 ## \[2.7.1]
 
 ### Dependencies
